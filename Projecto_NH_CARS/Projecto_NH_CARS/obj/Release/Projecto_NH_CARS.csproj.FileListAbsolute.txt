@@ -1,0 +1,9 @@
+C:\Users\Loja\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\bin\Release\Projecto_NH_CARS.exe.config
+C:\Users\Loja\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Release\Projecto_NH_CARS.csprojResolveAssemblyReference.cache
+C:\Users\Loja\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Release\Projecto_NH_CARS.Frm_Apresentacao.resources
+C:\Users\Loja\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Release\Projecto_NH_CARS.Frm_Cadastrar_Funcionarios.resources
+C:\Users\Loja\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Release\Projecto_NH_CARS.Frm_Gestao_Funcionarios.resources
+C:\Users\Loja\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Release\Projecto_NH_CARS.Frm_Gestao_Marcas.resources
+C:\Users\Loja\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Release\Projecto_NH_CARS.Frm_Login.resources
+C:\Users\Loja\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Release\Projecto_NH_CARS.Frm_Menu_Principal.resources
+C:\Users\Loja\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Release\Projecto_NH_CARS.csproj.GenerateResource.Cache

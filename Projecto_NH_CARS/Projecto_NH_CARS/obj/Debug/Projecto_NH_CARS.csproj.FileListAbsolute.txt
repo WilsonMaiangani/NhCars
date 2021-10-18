@@ -1,0 +1,100 @@
+C:\Users\Wilson Maiangani K\Desktop\12º Classe Turma II12A\TLP\II Trimestre\NH-CARS\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Apresentacao.resources
+C:\Users\Wilson Maiangani K\Desktop\12º Classe Turma II12A\TLP\II Trimestre\NH-CARS\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Cadastrar_Funcionarios.resources
+C:\Users\Wilson Maiangani K\Desktop\12º Classe Turma II12A\TLP\II Trimestre\NH-CARS\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Gestao_Funcionarios.resources
+C:\Users\Wilson Maiangani K\Desktop\12º Classe Turma II12A\TLP\II Trimestre\NH-CARS\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Gestao_Marcas.resources
+C:\Users\Wilson Maiangani K\Desktop\12º Classe Turma II12A\TLP\II Trimestre\NH-CARS\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Login.resources
+C:\Users\Wilson Maiangani K\Desktop\12º Classe Turma II12A\TLP\II Trimestre\NH-CARS\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Menu_Principal.resources
+C:\Users\Wilson Maiangani K\Desktop\12º Classe Turma II12A\TLP\II Trimestre\NH-CARS\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Properties.Resources.resources
+C:\Users\Wilson Maiangani K\Desktop\12º Classe Turma II12A\TLP\II Trimestre\NH-CARS\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.csproj.GenerateResource.Cache
+C:\Users\Wilson Maiangani K\Desktop\12º Classe Turma II12A\TLP\II Trimestre\NH-CARS\Projecto_NH_CARS\Projecto_NH_CARS\bin\Debug\Projecto_NH_CARS.exe.config
+C:\Users\Wilson Maiangani K\Desktop\12º Classe Turma II12A\TLP\II Trimestre\NH-CARS\Projecto_NH_CARS\Projecto_NH_CARS\bin\Debug\Projecto_NH_CARS.exe
+C:\Users\Wilson Maiangani K\Desktop\12º Classe Turma II12A\TLP\II Trimestre\NH-CARS\Projecto_NH_CARS\Projecto_NH_CARS\bin\Debug\Projecto_NH_CARS.pdb
+C:\Users\Wilson Maiangani K\Desktop\12º Classe Turma II12A\TLP\II Trimestre\NH-CARS\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.exe
+C:\Users\Wilson Maiangani K\Desktop\12º Classe Turma II12A\TLP\II Trimestre\NH-CARS\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.pdb
+C:\Users\Wilson Maiangani K\Desktop\12º Classe Turma II12A\TLP\II Trimestre\NH-CARS\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.csprojResolveAssemblyReference.cache
+C:\Users\EMILIANO\Documents\Gravações de som\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\bin\Debug\Projecto_NH_CARS.exe.config
+C:\Users\EMILIANO\Documents\Gravações de som\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\bin\Debug\Projecto_NH_CARS.exe
+C:\Users\EMILIANO\Documents\Gravações de som\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\bin\Debug\Projecto_NH_CARS.pdb
+C:\Users\EMILIANO\Documents\Gravações de som\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\EMILIANO\Documents\Gravações de som\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.csprojResolveAssemblyReference.cache
+C:\Users\EMILIANO\Documents\Gravações de som\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Apresentacao.resources
+C:\Users\EMILIANO\Documents\Gravações de som\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Cadastrar_Funcionarios.resources
+C:\Users\EMILIANO\Documents\Gravações de som\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Gestao_Funcionarios.resources
+C:\Users\EMILIANO\Documents\Gravações de som\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Gestao_Marcas.resources
+C:\Users\EMILIANO\Documents\Gravações de som\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Login.resources
+C:\Users\EMILIANO\Documents\Gravações de som\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Menu_Principal.resources
+C:\Users\EMILIANO\Documents\Gravações de som\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Properties.Resources.resources
+C:\Users\EMILIANO\Documents\Gravações de som\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.csproj.GenerateResource.Cache
+C:\Users\EMILIANO\Documents\Gravações de som\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.exe
+C:\Users\EMILIANO\Documents\Gravações de som\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.pdb
+C:\Users\Loja\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\bin\Debug\Projecto_NH_CARS.exe.config
+C:\Users\Loja\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\bin\Debug\Projecto_NH_CARS.exe
+C:\Users\Loja\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\bin\Debug\Projecto_NH_CARS.pdb
+C:\Users\Loja\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Apresentacao.resources
+C:\Users\Loja\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Cadastrar_Funcionarios.resources
+C:\Users\Loja\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Gestao_Funcionarios.resources
+C:\Users\Loja\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Gestao_Marcas.resources
+C:\Users\Loja\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Login.resources
+C:\Users\Loja\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Menu_Principal.resources
+C:\Users\Loja\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Properties.Resources.resources
+C:\Users\Loja\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.csproj.GenerateResource.Cache
+C:\Users\Loja\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.exe
+C:\Users\Loja\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.pdb
+C:\Users\Vicente Fernando\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\bin\Debug\Projecto_NH_CARS.exe.config
+C:\Users\Vicente Fernando\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.exe
+C:\Users\Vicente Fernando\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.pdb
+C:\Users\Vicente Fernando\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\bin\Debug\Projecto_NH_CARS.exe
+C:\Users\Vicente Fernando\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\bin\Debug\Projecto_NH_CARS.pdb
+C:\Users\Vicente Fernando\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.csprojResolveAssemblyReference.cache
+C:\Users\Vicente Fernando\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Apresentacao.resources
+C:\Users\Vicente Fernando\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Cadastrar_Funcionarios.resources
+C:\Users\Vicente Fernando\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Gestao_Funcionarios.resources
+C:\Users\Vicente Fernando\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Gestao_Marcas.resources
+C:\Users\Vicente Fernando\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Login.resources
+C:\Users\Vicente Fernando\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Menu_Principal.resources
+C:\Users\Vicente Fernando\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Properties.Resources.resources
+C:\Users\Vicente Fernando\Desktop\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.csproj.GenerateResource.Cache
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\bin\Debug\Projecto_NH_CARS.exe.config
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\bin\Debug\Projecto_NH_CARS.exe
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\bin\Debug\Projecto_NH_CARS.pdb
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Factura.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Testes.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Relatorio_5.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Relatorio_3.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Relatorio_2.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frms_Relatorio_1.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Ajuda.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Apresentacao.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Cadastrar_Cargos.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Cadastrar_Carro.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Cadastrar_Funcionarios.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Cadastrar_Modelo.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Cadastrar_Usuario.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Cargos.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Clientes.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Editar_Venda.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Estatisticas.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Gestao_Carros.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Gestao_Funcionarios.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Gestao_Marcas.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Gestao_Usuarios.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Gestao_Vendas.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Login.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Menu_Principal.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Opcao.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Pergunta_Mudar_User.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Gestao_Modelos.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Pesquisas_Carro.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Sobre_Software.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Vendas.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Visualizar_Usuario_Logados.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Visualizar_Vendas.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Properties.Resources.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Frm_Relatorio_4.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.Teste.resources
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.csproj.GenerateResource.Cache
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\RdlCompile.cache
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\RdlCompile.compiled
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.exe
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.pdb
+C:\Users\Loja\Desktop\Project NH-CARS\Nova pasta\Projecto_NH_CARS\Projecto_NH_CARS\obj\Debug\Projecto_NH_CARS.csprojResolveAssemblyReference.cache
